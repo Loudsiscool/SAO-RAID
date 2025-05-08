@@ -1,8 +1,6 @@
-<h1 align="left"></h1>
-
-###
-
-<img align="left" height="250" src="https://img.youtube.com/vi/QGzmfxKE_Tk/maxresdefault.jpg"  />
+<div align="center">
+  <img height="250" src="https://img.youtube.com/vi/QGzmfxKE_Tk/maxresdefault.jpg"  />
+</div>
 
 ###
 
