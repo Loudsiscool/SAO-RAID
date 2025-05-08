@@ -1,18 +1,17 @@
 {
-    "Name": "SAO RAID V1",
-    "Description": "Three Unit SAO RAID",
+    "Name": "Fate survival V2",
+    "Description": "Fate survival mango with a hill unit",
     "Author": "KingMoe",
     "Version": "1.0",
-    "Image": "https://i.ibb.co/rKPwGPWg/image-2025-05-08-005904434.png",
+    "Image": "https://i.ibb.co/21jTWbNZ/image-2025-05-08-125700894.png",
     "Tags": {
         "Resolution": "1920x1080",
         "Type": "TinyTask"
     },
-    "Main": "SAO Raid V1.rec",
+    "Main": "Fate survival with a hill V2.rec",
     "MangoID": "AnimeLastStand15",
-    "BigThumbnail": "https://i.ibb.co/gLRxtYS4/New-Project-18.png"
+    "BigThumbnail": "https://img.youtube.com/vi/QGzmfxKE_Tk/maxresdefault.jpg"
     
 
     
 }
-
