@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">REQUIREMENTS</h3>
 
 ###
