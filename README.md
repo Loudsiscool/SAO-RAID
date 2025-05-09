@@ -1,8 +1,18 @@
+<h1 align="center">[TUTORIAL VIDEO]</h1>
+
+###
+
 <p align="center">[TUTORIAL VIDEO](https://www.youtube.com/watch?v=QGzmfxKE_Tk)</p>
 
 ###
 
-<h3 align="left">REQUIREMENTS</h3>
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
+<h1 align="center">REQUIREMENTS</h1>
 
 ###
 
@@ -12,7 +22,7 @@
 
 <br clear="both">
 
-<h1 align="left">Support + Creator</h1>
+<h1 align="center">Support + Creator</h1>
 
 ###
 
