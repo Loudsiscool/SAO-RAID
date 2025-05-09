@@ -1,4 +1,4 @@
-<p align="left">[TUTORIAL VIDEO](https://www.youtube.com/watch?v=QGzmfxKE_Tk)</p>
+<p align="center">[TUTORIAL VIDEO](https://www.youtube.com/watch?v=QGzmfxKE_Tk)</p>
 
 ###
 
