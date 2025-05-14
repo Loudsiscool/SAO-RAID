@@ -17,7 +17,7 @@
 ###
 
 <p align="left">1920x1080p, <br>100% scale, <br>full screen slot 1-3 dps, slot 4 hill dps, slot 5-6 <br>farms modifiers: bankrupt, weakness, sluggish (can remove sluggish) 4-5x speed</p>
-
+start tinytask when you first load into the map
 ###
 
 <br clear="both">
